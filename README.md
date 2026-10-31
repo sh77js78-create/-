@@ -1,13 +1,13 @@
-# ActiveLauncher
+# 활성특별시
 
-**A dedicated desktop launcher for Active Special City**  
+**A dedicated desktop launcher for 활성특별시**  
 *An independent Minecraft: Java Edition roleplay server project*
 
 > **NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.**
 
 ## Overview
 
-**ActiveLauncher** is an independent desktop application being developed for **Active Special City** (활성특별시), a Korean-language Minecraft: Java Edition roleplay community. It aims to give players one place to sign in with their own Microsoft account, install the required game environment, keep approved server content up to date, and join the community server.
+**활성특별시** is an independent desktop application being developed for **활성특별시y** a Korean-language Minecraft: Java Edition roleplay community. It aims to give players one place to sign in with their own Microsoft account, install the required game environment, keep approved server content up to date, and join the community server.
 
 The launcher does **not** provide a copy of Minecraft or grant game licenses. Players must own a valid license for Minecraft: Java Edition and authenticate before gameplay or server connection.
 
@@ -18,7 +18,7 @@ The current development project includes:
 - **Custom desktop interface:** React and TypeScript frontend in a Tauri v2 application.
 - **Microsoft sign-in integration:** OAuth 2.0 Authorization Code Flow with PKCE, using a system-browser sign-in and local loopback redirect.
 - **Minecraft authentication integration:** Xbox Live, XSTS, and Minecraft Services token exchange, with ownership/profile verification as a required step before gameplay.
-- **Managed installation:** Minecraft: Java Edition **1.21.4**, **Fabric**, and a **Java 21** runtime check.
+- **Managed installation:** Minecraft: Java Edition **1.21.7**, **Fabric**, and a **Java 21** runtime check.
 - **Content management:** Manifest-driven installation and updates for server-required mods and resource packs.
 - **Quick Play:** Launching Minecraft with a preconfigured multiplayer server destination after required checks succeed.
 - **Diagnostics:** Game process monitoring and log collection for troubleshooting.
@@ -66,5 +66,5 @@ Minecraft and related marks belong to their respective owners. The launcher is i
 
 ## Contact
 
-**Project operator contact:** `REPLACE_WITH_YOUR_CONTACT_EMAIL`  
+**Project operator contact:** `human.190234@gmail.com`  
 *Replace this placeholder with a working contact email address before making this README public. The same address should be supplied in the Minecraft App ID review form and kept consistent with your Azure registration contact details.*
