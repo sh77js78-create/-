@@ -54,13 +54,13 @@ The project uses **Tauri v2, Rust, React, TypeScript, and Vite**. This public re
 
 ## Minecraft App ID review
 
-We are requesting authorization for **ActiveLauncher's own Microsoft Entra application ID** to access the Minecraft Services authentication APIs. This is necessary to authenticate players, verify their ownership of Minecraft: Java Edition, obtain the corresponding player profile, and enable legitimate game launch and server access.
+We are requesting authorization for **활성특별시 own Microsoft Entra application ID** to access the Minecraft Services authentication APIs. This is necessary to authenticate players, verify their ownership of Minecraft: Java Edition, obtain the corresponding player profile, and enable legitimate game launch and server access.
 
 We do not use another launcher's application ID and do not attempt to bypass Minecraft authentication or licensing requirements.
 
 ## Legal and brand notice
 
-ActiveLauncher and Active Special City are independent community projects. They are **not affiliated with, endorsed by, sponsored by, or officially connected to Mojang Studios or Microsoft**.
+활성특별시 are independent community projects. They are **not affiliated with, endorsed by, sponsored by, or officially connected to Mojang Studios or Microsoft**.
 
 Minecraft and related marks belong to their respective owners. The launcher is intended to comply with the [Minecraft EULA](https://www.minecraft.net/en-us/eula) and [Minecraft Usage Guidelines](https://www.minecraft.net/en-us/usage-guidelines). Community content must be distributed only with appropriate permissions.
 
