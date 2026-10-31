@@ -23,9 +23,9 @@ The current development project includes:
 - **Quick Play:** Launching Minecraft with a preconfigured multiplayer server destination after required checks succeed.
 - **Diagnostics:** Game process monitoring and log collection for troubleshooting.
 
-## Authentication and license protection
+## 활성특별시 and license protection
 
-ActiveLauncher is designed to use the following authentication sequence:
+활성특별시 is designed to use the following authentication sequence:
 
 1. The player signs in through Microsoft's official authorization page using OAuth 2.0 with PKCE.
 2. The launcher exchanges the authorized credentials through Xbox Live and XSTS.
